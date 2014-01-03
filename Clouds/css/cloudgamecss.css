@@ -1,0 +1,135 @@
+/**
+ * Created by Timothy on 11/12/13.
+ */
+/*
+    from and to could be used instead of 0% and 100%
+    any number of break points
+    animation-timing-function: linear, ease, ease-in, ease-out, ease-in-out, cubic-bezier(n,n,n,n)
+    animation-direction: normal, reverse, alternate, alternate-reverse
+    animation-fill-mode:
+    animation-delay: before animation starts
+*/
+#cloud1 {
+
+    -webkit-animation-duration: 50s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-direction: normal;
+    -webkit-animation-timing-function: linear;
+    /*  -webkit-animation-delay: .5s; */
+
+    -moz-animation-duration: 50s;
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-direction: normal;
+    -moz-animation-timing-function: linear;
+    /*  -moz-animation-delay: .5s; */
+
+    -ms-animation-duration: 50s;
+    -ms-animation-iteration-count: infinite;
+    -ms-animation-direction: normal;
+    -ms-animation-timing-function: linear;
+    /*  -o-animation-delay: .5s; */
+}
+
+@-webkit-keyframes slideX {
+    0%      {right:0%;}
+    100%    {left:100%;}
+}
+
+@-moz-keyframes slideX {
+    0%      {right:0%;}
+    100%    {left:100%;}
+}
+
+@-ms-keyframes slideX {
+    0%      {left:0%;}
+    100%    {left:100%;}
+}
+
+#thunderCloud {
+    -webkit-animation-duration: 15s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-direction: normal;
+    -webkit-animation-timing-function: linear;
+
+    -moz-animation-duration: 15s;
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-direction: normal;
+    -moz-animation-timing-function: linear;
+
+    -ms-animation-duration: 15s;
+    -ms-animation-iteration-count: infinite;
+    -ms-animation-direction: normal;
+    -ms-animation-timing-function: linear;
+}
+
+@-webkit-keyframes thunder {
+    0%      {opacity:1.0;}
+    5%      {opacity:0.0;}
+    25%     {opacity:1.0;}
+    50%     {opacity:1.0;}
+    55%     {opacity:0.7;}
+    60%     {opacity:0.0;}
+    62%     {opacity:1.0;}
+    65%     {opacity:0.0;}
+    70%     {opacity:1.0;}
+    80%     {opacity:1.0;}
+    85%     {opacity:0.0;}
+    90%     {opacity:1.0;}
+    100%     {opacity:0.0;}
+}
+@-moz-keyframes thunder {
+    0%      {opacity:1.0;}
+    5%      {opacity:0.0;}
+    25%     {opacity:1.0;}
+    50%     {opacity:1.0;}
+    55%     {opacity:0.7;}
+    60%     {opacity:0.0;}
+    62%     {opacity:1.0;}
+    65%     {opacity:0.0;}
+    70%     {opacity:1.0;}
+    80%     {opacity:1.0;}
+    85%     {opacity:0.0;}
+    90%     {opacity:1.0;}
+    100%     {opacity:0.0;}
+}
+@-ms-keyframes thunder {
+    0%      {opacity:1.0;}
+    5%      {opacity:0.0;}
+    25%     {opacity:1.0;}
+    50%     {opacity:1.0;}
+    55%     {opacity:0.7;}
+    60%     {opacity:0.0;}
+    62%     {opacity:1.0;}
+    65%     {opacity:0.0;}
+    70%     {opacity:1.0;}
+    80%     {opacity:1.0;}
+    85%     {opacity:0.0;}
+    90%     {opacity:1.0;}
+    100%     {opacity:0.0;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,31 @@
+* {
+    cursor:default;
+}
+#msperframe {
+    font: bold 12pt Tahoma;
+    background: #ddddff;
+    width:  136px;
+    height: 16px;
+    position: absolute;
+    padding: 4px;
+}
+
+/* hides the scroll bars */
+html, body {
+    overflow-x: hidden;
+    overflow-y: hidden;
+    background-color: #0a0e17;
+
+}
+#container {
+    width: 100%;
+}
+#game {
+    width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#main {
+    margin: 16px;
+    position: fixed;
+}

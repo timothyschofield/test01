@@ -1,0 +1,55 @@
+
+@-webkit-keyframes ufoMoveKF {
+    0%      {left:0px;top:0px;}
+    25%     {top:-20px;}
+    50%     {top:20px;}
+    75%     {top:-20px;}
+    100%    {left:200px;;top:20px;}
+}
+@-moz-keyframes ufoMoveKF {
+    0%      {left:0px;top:0px;}
+    25%     {top:-20px;}
+    50%     {top:20px;}
+    75%     {top:-20px;}
+    100%    {left:200px;top:20px;}
+}
+@-ms-keyframes ufoMoveKF {
+    0%      {left:0px;top:0px;}
+    25%     {top:-20px;}
+    50%     {top:20px;}
+    75%     {top:-20px;}
+    100%    {left:200px;top:20px;}
+}
+/************************************/
+@-webkit-keyframes darkMoveKF {
+    0%      {left:14px; top:35px; -webkit-transform: scaleX(0.3)}
+    50%     {-webkit-transform: scaleX(1.0)}
+    100%    {left:145px; top:35px; -webkit-transform: scaleX(0.3)}
+}
+@-moz-keyframes darkMoveKF {
+    0%      {left:14px; top:35px; -moz-transform: scaleX(0.3)}
+    50%     {-moz-transform: scaleX(1.0)}
+    100%    {left:145px; top:35px; -moz-transform: scaleX(0.3)}
+}
+@-ms-keyframes darkMoveKF {
+    0%      {left:14px; top:35px; -ms-transform: scaleX(0.3)}
+    50%     {-ms-transform: scaleX(1.0)}
+    100%    {left:145px; top:35px; -ms-transform: scaleX(0.3)}
+}
+/************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

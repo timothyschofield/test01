@@ -1,0 +1,8 @@
+/*
+    animation-timing-function: linear, ease, ease-in, ease-out, ease-in-out, cubic-bezier(n,n,n,n)
+    animation-direction: normal, reverse, alternate, alternate-reverse
+    animation-fill-mode: ???
+    animation-delay: delay before animation starts
+*/
+#ufo1{-webkit-animation-duration:2s;-webkit-animation-iteration-count:infinite;-webkit-animation-direction:alternate;-webkit-animation-timing-function:ease-in-out;-webkit-animation-delay:0s;-moz-animation-duration:2s;-moz-animation-iteration-count:infinite;-moz-animation-direction:alternate;-moz-animation-timing-function:ease-in-out;-moz-animation-delay:0s;animation-duration:2s;animation-iteration-count:infinite;animation-direction:alternate;animation-timing-function:ease-in-out;animation-delay:0s;-o-animation-duration:2s;-o-animation-iteration-count:infinite;-o-animation-direction:alternate;-o-animation-timing-function:ease-in-out;-o-animation-delay:0s}#ufo_dark_mover{-webkit-animation-duration:1s;-webkit-animation-iteration-count:infinite;-webkit-animation-direction:normal;-webkit-animation-timing-function:ease-in-out;-webkit-animation-delay:0s;-moz-animation-duration:1s;-moz-animation-iteration-count:infinite;-moz-animation-direction:normal;-moz-animation-timing-function:ease-in-out;-moz-animation-delay:0s;animation-duration:1s;animation-iteration-count:infinite;animation-direction:normal;animation-timing-function:ease-in-out;animation-delay:0s;-o-animation-duration:1s;-o-animation-iteration-count:infinite;-o-animation-direction:normal;-o-animation-timing-function:ease-in-out;-o-animation-delay:0s}
+/* This beautiful CSS-File has been crafted with LESS (lesscss.org) and compiled by simpLESS (wearekiss.com/simpless) */

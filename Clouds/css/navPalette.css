@@ -1,0 +1,56 @@
+#navPalette {
+    position: absolute;
+    width: 144px;
+    height: 164px;
+    top: 0px;
+    left: 0px;
+    cursor: default;
+    background-color:#31b0d5;
+    z-index:100;
+    box-shadow: 3px 3px 5px #888888;
+}
+#navTitleBar {
+    width: 100%;
+    height: 20px;
+    background-color:#eeeeee;
+    text-align: center;
+}
+.buttonRow {
+    width: 100%;
+    height: 48px;
+}
+.navButton {
+    float: left;    /* for some reason this gets rid of that annoying horizontal gap between buttons */
+    width: 48px;
+    height: 48px;
+    padding: 0px;   /* centers the button texts */
+}
+
+/* center button centers itself in its container */
+.centerButton {
+    float: none;    /* together float:none; and  display:block; suppress the button floating left */
+    display: block;
+    margin-left: auto;  /* and these center the button in its container */
+    margin-right: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="Demonstration of Animator software" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Animator Test</title>
+
+    <link href="js/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="css/app.css" rel="stylesheet">
+
+    <!-- All JavaScript at the bottom, except this Modernizr build.
+    Modernizr enables HTML5 elements & feature detects for optimal performance.
+    Create your own custom Modernizr build: www.modernizr.com/download/ -->
+    <script src="js/lib/modernizr-2.5.3.min.js"></script>
+
+</head>
+    <body>
+
+        <div class="containerx">
+
+            <div class="row">
+                <div class="col-xs-12">
+                    <div id="msperframe"></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-xs-12">
+                    <div id="main"></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-xs-3">
+                    <button id="startanimation" type="button" class="btn btn-primary btn-s">start animation</button> <!-- primary, success, warning, danger -->
+                    <button id="stopanimation" type="button" class="btn btn-primary btn-s">stop animation</button>
+                </div>
+                <div class="col-xs-3">
+                    <div id="currentFrame"></div>
+                </div>
+            </div>
+
+        </div> <!-- eo container -->
+
+        <!-- JavaScript at the bottom for fast page loading -->
+        <script data-main="js/main" src="js/lib/require/require.js"></script>
+    </body>
+</html>

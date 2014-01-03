@@ -1,0 +1,68 @@
+/*
+           //transform: rotate(-120deg) translateY(200%);
+           //transform-origin: top left;
+*/
+
+
+@-webkit-keyframes zombieWalk {
+   /* 0%      {-webkit-transform: scale(0.5, 0.5) -webkit-translate(0px, 0px)}
+    100%     {-webkit-transform: scale(1.0, 1.0) -webkit-translate(0px, 450px)} */
+    0% {top: 0px}
+    100% {top: 450px}
+}
+
+#stripZombie {
+    -webkit-animation-duration: 10s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-direction: normal;
+    -webkit-animation-timing-function: linear;
+}
+/*************************************/
+
+@-webkit-keyframes zombieWalk2KF {
+    0% {top: 0px}
+    100% {top: 450px}
+}
+
+#zombieWalk2 {
+    -webkit-animation-duration: 10s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-direction: normal;
+    -webkit-animation-timing-function: linear;
+}
+/*************************************/
+@-webkit-keyframes walkRightKF {
+    0% {left: 0px}
+    100% {left: 450px}
+}
+
+#walkRight {
+    -webkit-animation-duration: 30s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-direction: normal;
+    -webkit-animation-timing-function: linear;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,62 @@
+/*
+    animation-timing-function: linear, ease, ease-in, ease-out, ease-in-out, cubic-bezier(n,n,n,n)
+    animation-direction: normal, reverse, alternate, alternate-reverse
+    animation-fill-mode: ???
+    animation-delay: delay before animation starts
+*/
+// REMEMBER TO COMPILE THIS BEFORE YOU USE IT
+// e.g. .define-animation (2s, infinite, alternate, ease-in-out, 0.5s);
+.define-animation (@duration, @iteration-count, @direction, @timing-function, @delay: 0s) {
+
+  -webkit-animation-duration: @duration;
+  -webkit-animation-iteration-count: @iteration-count;
+  -webkit-animation-direction: @direction;
+  -webkit-animation-timing-function: @timing-function;
+  -webkit-animation-delay: @delay;
+
+  -moz-animation-duration: @duration;
+  -moz-animation-iteration-count: @iteration-count;
+  -moz-animation-direction: @direction;
+  -moz-animation-timing-function: @timing-function;
+  -moz-animation-delay: @delay;
+
+  animation-duration: @duration;
+  animation-iteration-count: @iteration-count;
+  animation-direction: @direction;
+  animation-timing-function: @timing-function;
+  animation-delay: @delay;
+
+  -ms-animation-duration: @duration;
+  -ms-animation-iteration-count: @iteration-count;
+  -ms-animation-direction: @direction;
+  -ms-animation-timing-function: @timing-function;
+  -ms-animation-delay: @delay;
+}
+// REMEMBER TO COMPILE THIS BEFORE YOU USE IT
+#ufo1 {
+  .define-animation (2s, infinite, alternate,  ease-in-out);
+}
+
+#ufo_dark_mover {
+  .define-animation (1s, infinite, normal,  ease-in-out);
+}
+
+
+/*
+.reflect (@length: 50%, @opacity: 0.2) {
+  -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(@length, transparent), to(rgba(255,255,255,@opacity)));
+}
+
+#war_id {
+  .reflect(20%, 0.2);
+}
+*/
+
+
+
+
+
+
+
+
+
