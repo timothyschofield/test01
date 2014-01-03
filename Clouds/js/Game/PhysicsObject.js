@@ -62,7 +62,7 @@ define(['jquery'], function ($) {
             this.aY = this.forceY/this.mass + this.pE.gravity;
             this.vY = this.vY + this.aY * this.t;
             this.y = this.y + this.vY * this.t;
- 
+
             this.testBoundaries();
         };
         /*
