@@ -18,7 +18,7 @@ define(['jquery', 'Layer','AppConfig', 'Sprite', 'Animation', 'SpriteGame', 'Loa
                 "vignette.png",
                 "skycover.png",
                 "cloud1.png",
-                "thundercloud1.png"
+                "thundercloud1.pngs"
                 ]);
 
             this.backgroundLayer = this.addLayer(new Layer("backgroundLayer", {'width': CloudGame.width, 'height': CloudGame.height}));
