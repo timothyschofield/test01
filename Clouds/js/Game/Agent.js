@@ -44,7 +44,6 @@ define(['jquery', 'Sprite', 'TrainGameConfig','AppConfig','EventDispatcher'],
         this.width = config.width;
         this.height = config.height;
 
-
         // Invokes the Sprite constructor as a method of this Agent with the arguments that were passed into this Agent
         Sprite.apply(this, arguments);
 

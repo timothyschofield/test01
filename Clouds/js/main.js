@@ -24,7 +24,6 @@ require.config({
     Frame: 'Spritelib/Frame',
     Loader: 'Spritelib/Loader',
     Sprite: 'Spritelib/Sprite',
-    Test: 'Spritelib/Test',
 
     Game: 'Game/Game',
     Agent: 'Game/Agent',
@@ -53,9 +52,8 @@ require.config({
     TrainGameConfig: 'TrainGame/TrainGameConfig',
     TrainGame: 'TrainGame/TrainGame',
     AI: 'TrainGame/AI',
-    NavPalette: 'TrainGame/NavPalette',
+    NavPalette: 'TrainGame/NavPalette'
 
-    AnimatorTest: 'AnimatorTest/AnimatorTest'
   }
 });
 

@@ -3,8 +3,8 @@
  */
 
 //noinspection JSLint
-define(['jquery', 'Layer','AppConfig', 'Sprite', 'Animation', 'SpriteGame', 'Loader', 'Test', 'FilmStrip', 'CloudGame'],
-    function ($, Layer, AppConfig, Sprite, Animation, SpriteGame, Loader, Test, FilmStrip, CloudGame) {
+define(['jquery', 'Layer','AppConfig', 'Sprite', 'Animation', 'SpriteGame', 'Loader', 'FilmStrip', 'CloudGame'],
+    function ($, Layer, AppConfig, Sprite, Animation, SpriteGame, Loader, FilmStrip, CloudGame) {
 
         function Zombies() {
 

@@ -1,4 +1,5 @@
 #navPalette {
+    visibility: hidden;
     position: absolute;
     width: 144px;
     height: 164px;

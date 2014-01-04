@@ -15,6 +15,8 @@ define([
 
 function TrainGame(worldRoot) {
 
+    $("#navPalette").css('visibility', 'visible');
+
     this.loader = new Loader();
     this.loader.loadImages(AppConfig.IMG_PATH,
         [
@@ -35,10 +37,10 @@ function TrainGame(worldRoot) {
 
     this.listOfMales = [];
 
-
     var navConfig = {
         id: 'navPalette'
     };
+
     this.navPalette = new NavPalette(navConfig);
 
     TileGame.apply(this, arguments); //  TrainGame inherits from TileGame

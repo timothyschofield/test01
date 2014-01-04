@@ -45,18 +45,6 @@ define(['jquery','AppConfig'], function ($, AppConfig) {
                 'background': "url('" + config.src + "')"
             });
 
-        // does NOT work for Firefox - have to use SVG mask ???
-        // mask-box-image will stretch the mask to fit the image
-        // MASKS ARE RECENTLY INTRODUCED AND ONLY WORK WELL IN WEBKIT BROWSERS
-        if(config.mask) {
-            /*
-           this.node.css({  '-webkit-mask-image': "url('" + config.mask + "')",  '-webkit-mask-repeat': 'no-repeat'});
-           //console.log( config.mask);
-           this.node.css({  'mask-image': "url('" + config.mask + "')"});
-           this.node.css({  '-o-mask-image': "url('" + config.mask + "')", '-o-mask-repeat': 'no-repeat'});
-           this.node.css({  '-ms-mask-image': "url('" + config.mask + "')", '-ms-mask-repeat': 'no-repeat'});
-           */
-        }
 
     }   // eo constructor
     /*

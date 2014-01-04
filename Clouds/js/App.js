@@ -40,8 +40,8 @@ define(['jquery', 'AppConfig', 'Sprite', 'Loader', 'TrainGame', 'CloudGame'],
     ***********************************************/
     App.prototype.init = function () {
 
-        //this.trainGame = new TrainGame(this.rootSprite);
-        this.cloudGame = new CloudGame(this.rootSprite);
+        this.trainGame = new TrainGame(this.rootSprite);
+        //this.cloudGame = new CloudGame(this.rootSprite);
 
         ////////////////////////////////////////////////////
 

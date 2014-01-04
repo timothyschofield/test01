@@ -45,10 +45,10 @@ define(['jquery', 'EventDispatcher'], function ($, EventDispatcher) {
 
         config = $.extend(defaults, config);
 
-        this.left = 0;
-        this.top = 0;
-        this.width = 0;
-        this.height = 0;
+        //this.left = 0;
+        //this.top = 0;
+        //this.width = 0;
+        //this.height = 0;
 
         this.spriteid = config.spriteid;        // for selection with childID - the id of the containing node
         this.spriteclass = config.spriteclass;  // for selection with childClass - the class of the containing node
@@ -201,6 +201,7 @@ define(['jquery', 'EventDispatcher'], function ($, EventDispatcher) {
         This will be pixel position relative to the coordinate system of its parent Sprite
     */
     Sprite.prototype.moveTo = function (newX, newY) {
+
         this.left = newX;
         this.top = newY;
         this.node.css({left: this.left, top: this.top});

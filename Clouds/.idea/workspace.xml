@@ -7,9 +7,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d6354ea-50c2-4c58-a8b9-c0febcdd572c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/Game/PhysicsObject.js" afterPath="$PROJECT_DIR$/js/Game/PhysicsObject.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/CloudGame/UFO_A9.js" afterPath="$PROJECT_DIR$/js/CloudGame/UFO_A9.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="C:\Tim\Computing\projects\Clouds\indextest.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Tim\Computing\projects\Clouds\js\AnimatorTest\AnimatorTest.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Tim\Computing\projects\Clouds\js\AnimatorTest\NewAnimation.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Tim\Computing\projects\Clouds\js\AnimatorTest\NewFilmStrip.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Tim\Computing\projects\Clouds\js\AnimatorTest\NewFrame.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Tim\Computing\projects\Clouds\js\Spritelib\Test.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/Game/Agent.js" afterPath="$PROJECT_DIR$/js/Game/Agent.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/App.js" afterPath="$PROJECT_DIR$/js/App.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/CloudGame/CloudGame.js" afterPath="$PROJECT_DIR$/js/CloudGame/CloudGame.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/Spritelib/Frame.js" afterPath="$PROJECT_DIR$/js/Spritelib/Frame.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/Spritelib/Sprite.js" afterPath="$PROJECT_DIR$/js/Spritelib/Sprite.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/TrainGame/TrainGame.js" afterPath="$PROJECT_DIR$/js/TrainGame/TrainGame.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/CloudGame/Zombies.js" afterPath="$PROJECT_DIR$/js/CloudGame/Zombies.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/navPalette.css" afterPath="$PROJECT_DIR$/css/navPalette.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Animator.iws" />
@@ -36,43 +49,85 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="1036" selection-end="1036" vertical-scroll-proportion="-0.65384614" vertical-offset="425" max-vertical-offset="1326">
+            <state line="33" column="63" selection-start="1229" selection-end="1239" vertical-scroll-proportion="-9.807693" vertical-offset="306" max-vertical-offset="1173">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CloudGame.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/CloudGame/CloudGame.js">
+      <file leaf-file-name="Zombies.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/CloudGame/Zombies.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="31" selection-start="393" selection-end="393" vertical-scroll-proportion="0.18255034" vertical-offset="0" max-vertical-offset="2754">
+            <state line="5" column="85" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2414">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UFO_A9.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/CloudGame/UFO_A9.js">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="27" selection-start="2621" selection-end="2621" vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="3536">
+            <state line="59" column="46" selection-start="1433" selection-end="1433" vertical-scroll-proportion="-23.84" vertical-offset="356" max-vertical-offset="1207">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PhysicsObject.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/Game/PhysicsObject.js">
+      <file leaf-file-name="App.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="45" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0" vertical-offset="211" max-vertical-offset="1649">
+            <state line="41" column="0" selection-start="1428" selection-end="1428" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="1309">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PhysicsEngine.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/Game/PhysicsEngine.js">
+      <file leaf-file-name="Sprite.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/Spritelib/Sprite.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="31" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0" vertical-offset="20" max-vertical-offset="765">
+            <state line="50" column="25" selection-start="2282" selection-end="2282" vertical-scroll-proportion="0.38812786" vertical-offset="510" max-vertical-offset="7310">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TrainGame.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/TrainGame/TrainGame.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="50" selection-start="572" selection-end="572" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="4726">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Agent.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/Game/Agent.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="36" selection-start="1808" selection-end="1808" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="4182">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Frame.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/Spritelib/Frame.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="0" selection-start="1582" selection-end="1582" vertical-scroll-proportion="0.0" vertical-offset="280" max-vertical-offset="1156">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navPalette.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/navPalette.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="14" selection-start="18" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1071">
               <folding />
             </state>
           </provider>
@@ -96,22 +151,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/css/ufoA9.css" />
-        <option value="$PROJECT_DIR$/js/CloudGame/UFO_A4.js" />
-        <option value="$PROJECT_DIR$/css/ufoA4.css" />
-        <option value="$PROJECT_DIR$/css/ufoless.less" />
-        <option value="$PROJECT_DIR$/js/AppConfig.js" />
-        <option value="$PROJECT_DIR$/css/cloudgamecss.css" />
-        <option value="$PROJECT_DIR$/js/App.js" />
-        <option value="$PROJECT_DIR$/js/Spritelib/Frame.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/CloudGame/Prop.js" />
         <option value="$PROJECT_DIR$/js/TrainGame/Male.js" />
-        <option value="$PROJECT_DIR$/js/Spritelib/Sprite.js" />
         <option value="$PROJECT_DIR$/js/CloudGame/UFO_A9.js" />
-        <option value="$PROJECT_DIR$/js/CloudGame/CloudGame.js" />
         <option value="$PROJECT_DIR$/js/Game/PhysicsObject.js" />
         <option value="$PROJECT_DIR$/js/Game/PhysicsEngine.js" />
+        <option value="$PROJECT_DIR$/js/CloudGame/CloudGame.js" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/js/CloudGame/Zombies.js" />
+        <option value="$PROJECT_DIR$/js/Spritelib/Frame.js" />
+        <option value="$PROJECT_DIR$/css/app.css" />
+        <option value="$PROJECT_DIR$/js/Spritelib/Sprite.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/Game/Agent.js" />
+        <option value="$PROJECT_DIR$/css/navPalette.css" />
+        <option value="$PROJECT_DIR$/js/TrainGame/TrainGame.js" />
+        <option value="$PROJECT_DIR$/js/App.js" />
       </list>
     </option>
   </component>
@@ -119,10 +174,10 @@
     <scope name="My Animator Code" pattern="file:js//*&amp;&amp;!file:js/lib//*&amp;&amp;!file:js/_notes.js" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="13" />
-    <option name="y" value="7" />
-    <option name="width" value="1905" />
-    <option name="height" value="927" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -202,97 +257,7 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="js">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Clouds">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="js">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="TrainGame">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Clouds">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="js">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="TileGame">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Clouds">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="js">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Spritelib">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Clouds">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="js">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Game">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Clouds">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="js">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="CloudGame">
+            <PATH_ELEMENT USER_OBJECT="css">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -320,14 +285,14 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CSS HTML JavaScript" />
+    <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ecopouffe" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.39615846" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.39615846" />
   </component>
   <component name="PublishConfig" deleteMissingItems="true" createEmptyFolders="true" autoUpload="true" autoUploadExternalChanges="true" />
   <component name="RecentsManager">
@@ -346,14 +311,6 @@
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.Tim Debug 1">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -364,15 +321,23 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -419,7 +384,11 @@
       <created>1388824493156</created>
       <updated>1388824493156</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="typo deliberate">
+      <created>1388826009087</created>
+      <updated>1388826009087</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -443,15 +412,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="13" y="7" width="1905" height="927" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294423" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914287" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35144123" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24920534" sideWeight="0.8946609" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17363344" sideWeight="0.67055774" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17343174" sideWeight="0.64855874" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45701358" sideWeight="0.9067708" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23015873" sideWeight="0.3968254" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3605707" sideWeight="0.37584397" order="8" side_tool="true" content_ui="tabs" />
@@ -460,7 +429,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35180995" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294423" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42265528" sideWeight="0.6234059" order="5" side_tool="false" content_ui="tabs" />
@@ -480,9 +449,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24941176" sideWeight="0.8946609" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2208589" sideWeight="0.72121894" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42265528" sideWeight="0.6234059" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42265528" sideWeight="0.6234059" order="5" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -493,7 +462,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="vbnb" />
-    <option name="LAST_COMMIT_MESSAGE" value="vbnb" />
+    <MESSAGE value="typo deliberate" />
+    <option name="LAST_COMMIT_MESSAGE" value="typo deliberate" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -504,68 +474,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/TrainGame/AI.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="860" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/TrainGame/NavPalette.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="72" selection-start="1017" selection-end="1017" vertical-scroll-proportion="0.4744186" vertical-offset="0" max-vertical-offset="860" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="860" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/AppConfig.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1377" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/cloudgamecss.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2397" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/Spritelib/Frame.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="64" selection-start="1710" selection-end="1710" vertical-scroll-proportion="0.39418605" vertical-offset="477" max-vertical-offset="1360" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/CloudGame/Zombies.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.29651162" vertical-offset="255" max-vertical-offset="2414" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/CloudGame/Prop.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="88" selection-start="578" selection-end="578" vertical-scroll-proportion="0.31627908" vertical-offset="0" max-vertical-offset="860" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/TrainGame/Male.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="263" column="9" selection-start="8732" selection-end="8732" vertical-scroll-proportion="4.8627906" vertical-offset="289" max-vertical-offset="6120" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/Spritelib/Sprite.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="287" column="54" selection-start="11719" selection-end="11719" vertical-scroll-proportion="5.881081" vertical-offset="0" max-vertical-offset="6766" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="1036" selection-end="1036" vertical-scroll-proportion="-0.65384614" vertical-offset="425" max-vertical-offset="1326">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/CloudGame/UFO_A9.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="58" column="27" selection-start="2621" selection-end="2621" vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="3536">
@@ -575,22 +483,106 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/Game/PhysicsObject.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="45" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0" vertical-offset="211" max-vertical-offset="1649">
-          <folding />
-        </state>
+        <state line="18" column="45" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0" vertical-offset="211" max-vertical-offset="1649" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/Game/PhysicsEngine.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="31" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0" vertical-offset="20" max-vertical-offset="765">
-          <folding />
-        </state>
+        <state line="11" column="31" selection-start="207" selection-end="207" vertical-scroll-proportion="0.0" vertical-offset="20" max-vertical-offset="765" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/CloudGame/CloudGame.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="31" selection-start="393" selection-end="393" vertical-scroll-proportion="0.18255034" vertical-offset="0" max-vertical-offset="2754">
+        <state line="20" column="35" selection-start="726" selection-end="726" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="2754">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/AppConfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="876" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/CloudGame/Zombies.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="85" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2414">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="46" selection-start="1433" selection-end="1433" vertical-scroll-proportion="-23.84" vertical-offset="356" max-vertical-offset="1207">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Game/Agent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="36" selection-start="1808" selection-end="1808" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="4182">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="63" selection-start="1229" selection-end="1239" vertical-scroll-proportion="-9.807693" vertical-offset="306" max-vertical-offset="1173">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Spritelib/Frame.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="0" selection-start="1582" selection-end="1582" vertical-scroll-proportion="0.0" vertical-offset="280" max-vertical-offset="1156">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/navPalette.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="14" selection-start="18" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1071">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/TrainGame/TrainGame.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="50" selection-start="572" selection-end="572" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="4726">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/_notes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="43" selection-start="1481" selection-end="1481" vertical-scroll-proportion="0.7956621" vertical-offset="0" max-vertical-offset="2516">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="0" selection-start="1428" selection-end="1428" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="1309">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Spritelib/Sprite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="25" selection-start="2282" selection-end="2282" vertical-scroll-proportion="0.38812786" vertical-offset="510" max-vertical-offset="7310">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
