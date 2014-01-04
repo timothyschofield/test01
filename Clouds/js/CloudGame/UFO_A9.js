@@ -31,7 +31,7 @@ define(['jquery', 'Layer','AppConfig', 'Sprite', 'Animation', 'SpriteGame', 'Loa
             this.container = new Sprite({ spriteid: "ufoA9Container" });
             this.container.width = 144;
             this.container.height = 44;
-            //this.container.draggable();
+            // this.container.draggable();
             // need to set the width and height or the rotation will always be about the tlhc
             this.container.setCSS({
                     '-webkit-transform-origin': '50% 50%',

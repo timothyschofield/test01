@@ -21,6 +21,7 @@ define(['jquery'], function ($) {
 
             this.object = object;
 
+            // need to pass this in beacuse PhysicsObject might have different boundaries
             this.boundaries =  [
                 { test: function () { return this.x > this.pE.rightWorld; },
                     response: function() {
