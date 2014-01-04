@@ -9,7 +9,7 @@ define(['jquery'], function ($) {
 
             this.physicsObjects = [];
 
-            this.leftWorld = 0;
+            this.leftWorld = 0;  
             this.rightWorld = 960;
             this.topWorld = 0;
             this.bottomWorld = 640;
