@@ -1,6 +1,6 @@
 test01
 ======
 
-My first GitHub test repository for the JavaScript Sprite animation library
-using the Tile (TrainGame) demo. To run the Clouds demo comment out new TrainGame() line
-and comment in new CloudGame() line in App.js.
+Repository for the JavaScript Sprite animation library (contained in the Spritelib folder)
+This is used to implement a tile game demo called TrainGame. To run the Clouds demo comment out the "new TrainGame()" line
+in App.js and comment in the "new CloudGame()" line.
